@@ -4,4 +4,4 @@
 
 Yêu cầu máy tính có thể biên dịch được chương trình c++.
 
-Mọi người clone project về và chạy file trie sẽ được.
+Mọi người clone project về và chạy file trie.cpp sẽ được.
